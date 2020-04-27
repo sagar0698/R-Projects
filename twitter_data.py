@@ -20,4 +20,4 @@ lang = 'english'
 
 tweets = query_tweets('#wildfire AND #forestfire', begindate = begin_date, enddate = end_date, limit = limit, lang = lang)
 df = pd.DataFrame(t.__dict__ for t in tweets)
-df.to_csv('tweets.csv')
+df.to_csv('research.csv')
