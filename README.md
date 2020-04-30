@@ -1,5 +1,6 @@
 # R-Projects
 
-****This is a sentimenal analysis research project that searches for peoples reactions through tweets.****
+This is a list of projecst that I have completed.
 
-Ryan, Marrion, and myself are using sentimental analysis to observe everyone's twitter reaction on the recent amount of wildfires. 
+The ****Wildfire**** folder contains a sentimenal analysis research project that I have done at California State University, Fullerton
+under Dr. Panagadan. This project was completed by myself and my partners, Ryan and Marrion. 
