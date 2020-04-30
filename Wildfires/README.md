@@ -1,4 +1,4 @@
-#Wildfires
+#Wildfire-Research-Project
 
 ****This is a sentimenal analysis research project that searches for peoples reactions through tweets.****
 
