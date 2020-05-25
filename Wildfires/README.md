@@ -1,3 +1,8 @@
+****Researcher****
+***Sagar Joshi***
+***Marrion-Yna Macandog***
+***Ryan Mauricio***
+
 **Introduction:**
 In this miniature report, we will be discussing how often wildfires are tweeted either with or without an ongoing wildfire occurrence on the news. Many of these tweets will refer to the Australian wildfires that occurred late last year. 
 Dataset:
