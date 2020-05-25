@@ -21,7 +21,9 @@ We first use Python and Twitter API to create the csv file. Next, we loaded our 
 
 
 **Results**
+
 ![Rplot](https://user-images.githubusercontent.com/55200206/82846704-063ef780-9e9f-11ea-814b-4eaeb39ee4c8.png)
+
 Note: Most frequently occuring words, including keywords: forestfire and wildfires
 
 **Conclusions:**
