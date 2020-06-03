@@ -17,7 +17,7 @@ Search words used were:
  #wildfire
 
 **Approach:**
-We first use Python and Twitter API to create the csv file. Next, we loaded our dataset into R and began with sentiment analysis. Then, we created columns containing the tweets and the next column containing word frequency on how often a certain word is used. After that, we compared the amount of positive and negative keywords there are within each line of text and print out their difference.
+We first use Python and Twitter API to create the csv file based off #wildfire and #forestfire. Next, we loaded our dataset into R and began with sentiment analysis. Then, we created columns containing the tweets and the next column containing word frequency on how often a certain word is used. After that, we compared the amount of positive and negative keywords there are within each line of text and print out their difference.
 
 
 **Results**
